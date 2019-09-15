@@ -1,0 +1,4 @@
+
+    .story {txt} - Makes Tonto tell a story about {txt}
+    .help - Lists all the commands
+    .say {txt} - Makes Tonto say exactly {txt}
